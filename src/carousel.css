@@ -1,0 +1,7 @@
+.slick-slider {
+  margin: 30px auto 50px;
+}
+.slick-list, .slick-slider {
+  position: relative;
+  display: block;
+}
